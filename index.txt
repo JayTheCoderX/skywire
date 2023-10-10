@@ -1,3 +1,7 @@
+########################
+## WELCOME TO SKYWIRE ##
+########################
+
 Skywire Index - Welcome To the SkyWire Network!
 
 $file:about.txt$ About
@@ -5,4 +9,4 @@ $file:latest.txt$ Latest News
 $file:test.txt$ Test Article
 $run:update.lua latest.lua$ Update
 
--------------
+########################
