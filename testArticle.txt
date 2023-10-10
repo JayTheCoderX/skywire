@@ -1,6 +1,6 @@
 The Story of Clockwork
 $br
-Nearly 1 year ago, on October 24th, 2022, developers Copper, Wash, and Ewoudje were discussing possible compatibility between the Create mod and Valkyrien Skies. After a short debate around naming, it was settled: the upcoming addon mod was to be called “VS: Clockwork”.
+Nearly 1 year ago, on October 24th, 2022, developers Copper, Wash, and Ewoudje were discussing possible compatibility between the Create mod and Valkyrien Skies. After a short debate around naming, it was settled: the upcoming addon mod was to be called "VS: Clockwork".
 $br
 Over the following months, Clockwork would be developed far beyond simple compatibility between the two mods. Clockwork was to add Propellers, Wings, Balloons, and more, allowing for real planes and vehicles to be constructed. On January 16th, 2023, lead developer Potato would release the first YouTube video showcasing Clockwork: The Flight of the Idiot.
 $br
@@ -8,7 +8,7 @@ This video would gain tens of thousands of views, bringing Clockwork into the pu
 $br
 Subsequently, more features were introduced. The Gravitron, The Command Seat, Afterblazers, The Redstone Resistor, the Combustion Engine, and so much more. But up until now, there had been no public release of the mod. Only glimpses of devs testing in the #clockwork channel or early access YouTube videos were available.
 $br
-Slowly, over the course of several months, hundreds of “when clockwork”s in #general, and hundreds and hundreds of hours of work from the dev team, Clockwork was released.
+Slowly, over the course of several months, hundreds of "when clockwork"s in #general, and hundreds and hundreds of hours of work from the dev team, Clockwork was released.
 $br
 Since then, several new features have been tested and added, most notably Physics Bearings and Solvers (laser beams). But after that, progress stagnated as the main developer dealt with other IRL matters.
 $br
