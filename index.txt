@@ -10,3 +10,5 @@ $file:test.txt$ Test Article
 $run:update.lua latest.lua$ Update
 $br
 ########################
+$br
+$date
