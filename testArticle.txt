@@ -1,23 +1,23 @@
 The Story of Clockwork
-
+$br
 Nearly 1 year ago, on October 24th, 2022, developers Copper, Wash, and Ewoudje were discussing possible compatibility between the Create mod and Valkyrien Skies. After a short debate around naming, it was settled: the upcoming addon mod was to be called “VS: Clockwork”.
-
+$br
 Over the following months, Clockwork would be developed far beyond simple compatibility between the two mods. Clockwork was to add Propellers, Wings, Balloons, and more, allowing for real planes and vehicles to be constructed. On January 16th, 2023, lead developer Potato would release the first YouTube video showcasing Clockwork: The Flight of the Idiot.
-
+$br
 This video would gain tens of thousands of views, bringing Clockwork into the public eye. Other large YouTubers such as Shalz also noticed it, leading to a boom in YouTube popularity. 
-
+$br
 Subsequently, more features were introduced. The Gravitron, The Command Seat, Afterblazers, The Redstone Resistor, the Combustion Engine, and so much more. But up until now, there had been no public release of the mod. Only glimpses of devs testing in the #clockwork channel or early access YouTube videos were available.
-
+$br
 Slowly, over the course of several months, hundreds of “when clockwork”s in #general, and hundreds and hundreds of hours of work from the dev team, Clockwork was released.
-
+$br
 Since then, several new features have been tested and added, most notably Physics Bearings and Solvers (laser beams). But after that, progress stagnated as the main developer dealt with other IRL matters.
-
+$br
 But this changed on September 28th, when this message was posted in #clockwork:
-
+$br
 At the time this article was published, the release should be out tomorrow, but it will supposedly not contain all of the previous blocks and items from previous versions, as the mod was rewritten from the ground up to allow for performance enhancements. All missing content will be added back in the following months.
-
+$br
 What to Expect:
-
+$br
 According to lead developer Potato, this new snapshot will contain:
 - Compatibility with Create 0.5.1
 - The Auric Designator: a wand that replaces Bluperglue, and can be placed inside a physics infuser to physicsify the selections made.
@@ -34,9 +34,9 @@ The snapshot will not contain:
 - Balloons
 - Bluperglue, as the feature has been replaced with the Auric Designator.
 - Presumably everything else
-
+$br
 What are the plans for the future?
-
+$br
 Potato has been transparent about his future plans for Clockwork, so as of now we know that:
 - Physics Pistons will be added (mechanical pistons that have physics)
 - Balloons will be reworked
@@ -49,7 +49,8 @@ Potato has been transparent about his future plans for Clockwork, so as of now w
 - Ship Sonar
 - Kinetic Springs
 - Parachutes
-
+$br
 What do you want to see in the upcoming months?
-
+$br
 Article by AgentPenguinC
+$back
