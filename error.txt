@@ -1,7 +1,8 @@
 ### OOPS! ###
-
+$br
 It looks like you clicked an invalid link!
-
+$br
 Please update your client and if the issue persists contact an administrator
 You can select the link below to return to the previous page:
+$br
 $back$ [Return]
