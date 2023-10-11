@@ -4,10 +4,10 @@
 $br
 Skywire Index - Welcome To the SkyWire Network!
 $br
-$file:about.txt$ About
-$file:latest.txt$ Latest News
-$file:test.txt$ Test Article
-$run:update.lua latest.lua$ Update
+$file:about.txt$>About
+$file:latest.txt$>Latest News
+$file:testArticle.txt$>Test Article
+$run:update.lua latest.lua$>Update Client
 $br
 ########################
 $br
