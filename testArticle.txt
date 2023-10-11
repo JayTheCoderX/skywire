@@ -53,4 +53,4 @@ $br
 What do you want to see in the upcoming months?
 $br
 Article by AgentPenguinC
-$back
+$back$ [Go Back]
